@@ -1,0 +1,33 @@
+Wayru, proyecto ecuatoriano con el que ahora todos pueden ‘ser dueños’ de una parte del Internet
+
+A pesar de haber sido declarado un derecho humano en el año 2011, y aunque el número total de usuarios está en aumento, el acceso a Internet no está tan difundido como debería. En el mundo hay 3.700 millones de personas sin acceso a la web, y solo en Latinoamérica, 80 millones de hogares no tienen un acceso confiable y estable a la red de redes.
+Según el estudio 
+publicado por We are Social y Hootsuite, Ecuador tiene 10,17 millones usuarios de Internet, es decir, el 57 % de la población usa este servicio. En relación con enero del 2020 hubo un crecimiento del 1,5 %, que es igual a 147.000 nuevos usuarios. El número de dispositivos móviles conectados en el país es de 13,82 millones, lo que constituye el 77,8 % de la población.
+De allí radica la importancia de que cada vez más se sumen actores y empresas que permitan que las personas estén más conectadas. Charvel Chedraui Sotomayor, emprendedor serial ecuatoriano, presentó Wayru, un proveedor de Internet del cual asegura es “distinto y revolucionario”. Él cree que el problema de conectividad es estructural y que por lo tanto, si se cambian las bases, el panorama mejoraría sustancialmente. 
+su plan es proveer Internet de calidad y de bajo costo a las poblaciones que más lo necesitan.
+“Wayru está pensado para que los usuarios compartan conexión entre ellos, creando así una red descentralizada. Es un nuevo tipo de proveedor de Internet con propiedad distribuida para el mundo urbano en vías de desarrollo. Nuestra misión es democratizar el acceso a Internet atendiendo a las zonas urbanas vulnerables en Latinoamérica”, dice Chedraui.
+Con una red troncal de fibra se implementan una serie de puntos de distribución para proveer de Internet a una región. “Utilizamos tecnología 
+inalámbrica para la última milla, operando en un espectro no licenciado lo que nos permite implementar redes gigabit en poco tiempo. La red de Internet de cualquier ciudad se divide en regiones llamadas 
+. Cualquiera puede comprar una. Actualmente estamos enfocados en abrir la primera red en Ecuador, pero el modelo fue pensado para la región de Latinoamérica completa. Esperamos abrir al menos seis capitales más para venta de 
+en los próximos seis meses”, destaca el creador de Wayru.
+La estrategia inicial para arrancar en cada ciudad es montar la infraestructura, la cual incluye puntos de acceso a Internet en las calles, parques, áreas comerciales y de alta afluencia. “De este modo la gente prueba el servicio y lo puede solicitar para su negocio o casa. Parte del plan de 
+ es asociarse con 
+ para poder desplegar redes en zonas urbanas vulnerables con mayor rapidez”.
+Los 
+están definidos por ciudad, pero no tienen una ubicación geográfica específica dentro de la ciudad. “Si compras un 
+de Guayaquil, por ejemplo, ganas por lo que se genere en esa ciudad” y así en otras ciudades. “Cualquiera puede comprar un 
+y ganar regalías en un contrato renovable de cinco años con un rendimiento aproximado del 300 % sobre la inversión. 
+Para poder cumplir con lo que ofrecemos, los 
+ reciben el 20 % de los ingresos sobre los servicios vendidos a clientes finales como casas o negocios una vez que la red esté montada. Es decir, ganarán un porcentaje de las ventas de todos los clientes que tengamos. Las ganancias se equilibrarán en toda la red para garantizar que todos los 
+obtengan equidad y cumplan con su ROI (sigla en inglés de retorno sobre la inversión)”, señala Chedraui.
+El Internet es básicamente contenido alojado en servidores, de allí que Chedraui explica: “La mayor concentración de contenido del mundo occidental se encuentra en cuatro sitios, Estados Unidos, Reino Unido, Alemania y Holanda. China, India y la mayor parte de Asia tienen otros puntos de concentración de servidores con contenido. Igual nos conectamos todos, pero la mayoría del contenido que accedemos en inglés o español está alojado de este lado del planeta. Ahora, para que las personas tengamos acceso a este contenido, necesitamos conectarnos a estos servidores. Es ahí donde entra la fibra submarina, que conecta casi a todos los países del mundo con estos sitios de concentración de alojamiento de contenido. Los 
+internacionales son aquellos que venden tráfico entre el lugar donde está alojado el contenido y los ISP que se encuentran en cualquier país quienes venden el acceso a Internet a casas, negocios y personas. Dicho esto, nosotros compraríamos tráfico a estos 
+internacionales como cualquier otro proveedor, para poder así ofrecer el servicio de manera interna distribuido por nosotros, sobre nuestra infraestructura en cualquier ciudad”.
+Consiste en comprar Internet al por mayor a 
+internacionales, como hace cualquier otro proveedor de Internet en cualquier país del mundo, y vender acceso a clientes finales como casas o negocios. “Una vez que empiece a funcionar en la primera ciudad, pensamos abrir diez ciudades nuevas para venta de 
+y comenzar a crecer en la región”.
+Wayru es una empresa fundada en Estados Unidos por el ecuatoriano Charvel Chedraui que está enfocada en el mercado latinoamericano. Está en proceso de establecer entidades legales en varios países incluyendo Ecuador, donde piensan arrancar con la primera red. “El Internet ha cambiado al mundo más que cualquier otra cosa en la historia de la humanidad. Dar a las personas acceso a Internet en todo el mundo puede generar cambios colectivos tan grandes que son muy difíciles de predecir”, dice.
+Chedraui fue alumno de i3Lab de la Espol, participó en Start-Up Chile con su anterior 
+, y ahora está participando en el programa internacional de aceleración de 
+en Puerto Rico llamado Parallel 18, generación 9. “Parallel 18 es un programa centrado en proporcionar financiamiento, tutoría, conexiones comerciales e inversionistas a emprendedores subrepresentados en todo el mundo”, d
+ en Guayaquil.
