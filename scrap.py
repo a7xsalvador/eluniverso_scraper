@@ -20,7 +20,10 @@ def parse_notice(link, today):
             try:
                 title =  parsed.xpath(XPATH_TITLE)[0]#extract title
                 title = title.replace('\"', '')#deletes the character "
+                
                 title = title.replace('\'', '')#deletes the character "
+                title = title.replace(';', '')#deletes the character "
+                title = title.replace('/', '')#deletes the character "
                 body =  parsed.xpath(XPATH_BODY)
 
                 #for i in body:
